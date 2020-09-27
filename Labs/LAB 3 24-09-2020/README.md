@@ -6,6 +6,12 @@
 
 The third assignment is **Sentence Classification** and **Sentence Completion** using a **Naive Bayes Classifier**.
 
+### Reference Tutorial Notebooks:
+
+* [Tutorial 3 Python Notebook](./tutorial-for-reference/Tutorial3.ipynb)
+
+* [Bag-of-Words Python Notebook](./tutorial-for-reference/Bag_of_words.ipynb)
+
 ### Description:
 
 1. **Sentence Classification**
