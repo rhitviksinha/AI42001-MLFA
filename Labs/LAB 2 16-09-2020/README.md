@@ -4,7 +4,7 @@
 
 # Assignment 2
 
-Lab Assignment 2 on Moodle: [Moodle Website](http://www.kgpmoodle.iitkgp.ac.in/moodle/login/index.php)
+Lab Assignment 2 *(incomplete submission)*: [Python Notebook](./LAB_ASSIGNMENT_2.ipynb)
 
 The second assignment is **NumPy implementation of Linear Regularization** and **Lasso and Ridge Regressions**.
 
