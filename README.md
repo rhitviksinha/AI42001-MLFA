@@ -12,3 +12,12 @@ Course Content for AI42001: "Machine Learning Foundations and Applications" take
 * **Instructor:** [Professor Adway Mitra](http://www.iitkgp.ac.in/department/AI/faculty/ai-adway), (Assistant Prof., [Centre of Excellence in Artificial Intelligence](http://www.ai.iitkgp.ac.in/))
 
 * **Teachine Assistants:** Namita (lead TA), Deepayan, Sujoy, Avinash, Abhishek (PhD students, COEAI)
+
+___
+## LAB Reports
+
+1. [Lab 0 (Introduction)](./LAB%200%2002-09-2020)
+2. [Lab 1 (Image denoising and classification with KNN)](./LAB%201%2009-09-2020)
+3. [Lab 2 (Linear and Ridge Regression)](./LAB%202%2016-09-2020)
+
+...
